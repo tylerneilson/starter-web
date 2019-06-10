@@ -2,7 +2,9 @@
 
 This repository is for showing how to use Git and GitHub together
 
-## Introductino
+## Introduction
+
+This is an example to show different parts of Git repository and various commands using a web project.
 
 ## Purpose
 
